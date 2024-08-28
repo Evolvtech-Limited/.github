@@ -15,7 +15,7 @@ We are proud to host a range of projects on our GitHub organization, each contri
 - **Natty Locks Boutique:** is an e-commerce platform tailored specifically for natural hair care products and accessories. We aim to provide a user-friendly and engaging online store where customers can find everything they need to nurture and style their natural hair.
 
 
-Explore all our repositories [here](https://github.com/Evolvtech-Limited).
+Explore all our repositories [here](https://github.com/orgs/Evolvtech-Limited/repositories).
 
 ## 🚀 Our Mission
 
